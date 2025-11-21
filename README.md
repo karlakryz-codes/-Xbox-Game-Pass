@@ -49,7 +49,7 @@ Este projeto apresenta um **dashboard de vendas desenvolvido no Microsoft Excel*
 ┣ 📜 README.md
 ┣ 📊 Dashboard_Vendas.xlsx
 ┗ 📁 images
-  ┗ 🖼️ dashboard.png
+   ┗ 🖼️ dashboard.png
 
 
 ## 🚀 Como Usar
