@@ -45,11 +45,17 @@ Este projeto apresenta um **dashboard de vendas desenvolvido no Microsoft Excel*
 
 ---
 ## 📂 Estrutura do Repositório
+
 📦 Dashboard-Xbox-GamePass
+
 ┣ 📜 README.md
+
 ┣ 📊 Dashboard_Vendas.xlsx
+
 ┗ 📁 images
+
    ┗ 🖼️ dashboard.png
+   
 
 
 ## 🚀 Como Usar
