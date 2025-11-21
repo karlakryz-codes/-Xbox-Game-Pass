@@ -13,7 +13,8 @@ Transformando dados brutos em análises visuais claras e úteis.
 ---
 
 ## 📊 Visão Geral
-Este projeto apresenta um **dashboard de vendas desenvolvido no Microsoft Excel**, com foco em transformar dados brutos em indicadores visuais que facilitam a análise de desempenho e suportam decisões estratégicas.
+Este projeto apresenta um **dashboard de vendas desenvolvido no Microsoft Excel**, com foco em transformar dados brutos em indicadores visuais que facilitam a análise de desempenho e suportam decisões estratégicas. 
+Dashboard desenvolvido como desafio prático da **Digital Innovation One (DIO)**, com foco em análise de dados, construção de KPIs e criação de visualizações em Excel.
 
 ---
 
@@ -48,13 +49,13 @@ Este projeto apresenta um **dashboard de vendas desenvolvido no Microsoft Excel*
 
 📦 Dashboard-Xbox-GamePass
 
-   ┣ 📜 README.md
+┣ 📜 README.md
 
-   ┣ 📊 Dashboard_Vendas.xlsx
+┣ 📊 Dashboard_Vendas.xlsx
 
-   ┗ 📁 images
+┗ 📁 images
 
-      ┗ 🖼️ dashboard.png
+  ┗ 🖼️ dashboard.png
    
 
 
