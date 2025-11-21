@@ -7,8 +7,9 @@ Transformando dados brutos em análises visuais claras e úteis.
 ## 🖼️ Preview do Dashboard
 
 <p align="center">
-  <img src="imagens/dashboard.png" width="85%">
+  <img src="images/dashboard.png" width="85%">
 </p>
+
 
 
 ---
